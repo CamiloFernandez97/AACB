@@ -1,4 +1,4 @@
-package com.example.Aprendiendo.Aleman.con.Barchen;
+package com.barchen.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

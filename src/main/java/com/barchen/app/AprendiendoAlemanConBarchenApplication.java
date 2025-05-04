@@ -1,4 +1,4 @@
-package com.example.Aprendiendo.Aleman.con.Barchen;
+package com.barchen.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
